@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-ae166a0c\",\"path\":\"/notes/microservices/01/\",\"title\":\"Here are some techniques about microservices🚀\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"notes/microservices/01/README.md\"}")

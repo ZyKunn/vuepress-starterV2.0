@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-52d24054\",\"path\":\"/notes/mysql/\",\"title\":\"This will be a new chapter on the data of🚀\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"notes/mysql/README.md\"}")

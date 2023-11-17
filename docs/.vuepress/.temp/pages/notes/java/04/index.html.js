@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-83a86ff6\",\"path\":\"/notes/java/04/\",\"title\":\"As of now, the foundation of Java is basically over. Let's see what else Java can do? 🎡\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"notes/java/04/README.md\"}")

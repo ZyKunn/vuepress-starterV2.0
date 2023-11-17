@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-86449c36\",\"path\":\"/notes/python/Python%E5%85%A5%E9%97%A8/01.%E4%BD%A0%E5%A5%BDpython/\",\"title\":\"第一章节：你好Python\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"1.初识Python\",\"slug\":\"_1-初识python\",\"link\":\"#_1-初识python\",\"children\":[{\"level\":3,\"title\":\"1.1Python的起源\",\"slug\":\"_1-1python的起源\",\"link\":\"#_1-1python的起源\",\"children\":[]},{\"level\":3,\"title\":\"1.2为什么选择Python\",\"slug\":\"_1-2为什么选择python\",\"link\":\"#_1-2为什么选择python\",\"children\":[]},{\"level\":3,\"title\":\"1.3总结\",\"slug\":\"_1-3总结\",\"link\":\"#_1-3总结\",\"children\":[]}]},{\"level\":2,\"title\":\"2.什么是编程语言\",\"slug\":\"_2-什么是编程语言\",\"link\":\"#_2-什么是编程语言\",\"children\":[{\"level\":3,\"title\":\"2.1总结\",\"slug\":\"_2-1总结\",\"link\":\"#_2-1总结\",\"children\":[]}]},{\"level\":2,\"title\":\"3.Python安装（Windows）\",\"slug\":\"_3-python安装-windows\",\"link\":\"#_3-python安装-windows\",\"children\":[{\"level\":3,\"title\":\"3.1下载\",\"slug\":\"_3-1下载\",\"link\":\"#_3-1下载\",\"children\":[]},{\"level\":3,\"title\":\"3.2安装\",\"slug\":\"_3-2安装\",\"link\":\"#_3-2安装\",\"children\":[]},{\"level\":3,\"title\":\"3.3验证安装\",\"slug\":\"_3-3验证安装\",\"link\":\"#_3-3验证安装\",\"children\":[]}]},{\"level\":2,\"title\":\"4.Python安装（MacOS）\",\"slug\":\"_4-python安装-macos\",\"link\":\"#_4-python安装-macos\",\"children\":[{\"level\":3,\"title\":\"4.1下载\",\"slug\":\"_4-1下载\",\"link\":\"#_4-1下载\",\"children\":[]},{\"level\":3,\"title\":\"4.2安装\",\"slug\":\"_4-2安装\",\"link\":\"#_4-2安装\",\"children\":[]},{\"level\":3,\"title\":\"4.3验证安装\",\"slug\":\"_4-3验证安装\",\"link\":\"#_4-3验证安装\",\"children\":[]},{\"level\":3,\"title\":\"4.4拓展\",\"slug\":\"_4-4拓展\",\"link\":\"#_4-4拓展\",\"children\":[]}]},{\"level\":2,\"title\":\"5.第一个Python程序\",\"slug\":\"_5-第一个python程序\",\"link\":\"#_5-第一个python程序\",\"children\":[{\"level\":3,\"title\":\"2.1小练习\",\"slug\":\"_2-1小练习\",\"link\":\"#_2-1小练习\",\"children\":[]},{\"level\":3,\"title\":\"2.2第一个Python程序常见问题\",\"slug\":\"_2-2第一个python程序常见问题\",\"link\":\"#_2-2第一个python程序常见问题\",\"children\":[]}]},{\"level\":2,\"title\":\"6.Python解释器\",\"slug\":\"_6-python解释器\",\"link\":\"#_6-python解释器\",\"children\":[{\"level\":3,\"title\":\"6.1总结\",\"slug\":\"_6-1总结\",\"link\":\"#_6-1总结\",\"children\":[]}]},{\"level\":2,\"title\":\"7.Python开发环境\",\"slug\":\"_7-python开发环境\",\"link\":\"#_7-python开发环境\",\"children\":[{\"level\":3,\"title\":\"7.1安装和配置PyCharm工具\",\"slug\":\"_7-1安装和配置pycharm工具\",\"link\":\"#_7-1安装和配置pycharm工具\",\"children\":[]},{\"level\":3,\"title\":\"7.2总结\",\"slug\":\"_7-2总结\",\"link\":\"#_7-2总结\",\"children\":[]}]}],\"git\":{},\"filePathRelative\":\"notes/python/Python入门/01.你好python/README.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
