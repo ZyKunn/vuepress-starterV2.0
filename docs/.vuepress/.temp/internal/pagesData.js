@@ -5,16 +5,6 @@ export const pagesData = {
   "v-52d24054": () => import(/* webpackChunkName: "v-52d24054" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/mysql/index.html.js").then(({ data }) => data),
   // path: /notes/record/
   "v-261c7b52": () => import(/* webpackChunkName: "v-261c7b52" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/record/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/01/
-  "v-24ab810f": () => import(/* webpackChunkName: "v-24ab810f" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/01/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/02/
-  "v-24ab812e": () => import(/* webpackChunkName: "v-24ab812e" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/03/
-  "v-24ab814d": () => import(/* webpackChunkName: "v-24ab814d" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/03/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/04/
-  "v-24ab816c": () => import(/* webpackChunkName: "v-24ab816c" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/04/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/05/
-  "v-24ab818b": () => import(/* webpackChunkName: "v-24ab818b" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/05/index.html.js").then(({ data }) => data),
   // path: /notes/java/01/
   "v-83a870b0": () => import(/* webpackChunkName: "v-83a870b0" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/java/01/index.html.js").then(({ data }) => data),
   // path: /notes/java/02/
@@ -27,10 +17,20 @@ export const pagesData = {
   "v-83a86fb8": () => import(/* webpackChunkName: "v-83a86fb8" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/java/05/index.html.js").then(({ data }) => data),
   // path: /notes/java/06/
   "v-83a86f7a": () => import(/* webpackChunkName: "v-83a86f7a" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/java/06/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/
-  "v-ae166a0c": () => import(/* webpackChunkName: "v-ae166a0c" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/02/
-  "v-ae1669ce": () => import(/* webpackChunkName: "v-ae1669ce" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/01/
+  "v-24ab810f": () => import(/* webpackChunkName: "v-24ab810f" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/01/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/02/
+  "v-24ab812e": () => import(/* webpackChunkName: "v-24ab812e" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/03/
+  "v-24ab814d": () => import(/* webpackChunkName: "v-24ab814d" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/03/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/04/
+  "v-24ab816c": () => import(/* webpackChunkName: "v-24ab816c" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/04/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/05/
+  "v-24ab818b": () => import(/* webpackChunkName: "v-24ab818b" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/05/index.html.js").then(({ data }) => data),
+  // path: /notes/project/01/
+  "v-3b47fe31": () => import(/* webpackChunkName: "v-3b47fe31" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/project/01/index.html.js").then(({ data }) => data),
+  // path: /notes/project/02/
+  "v-3b47fe50": () => import(/* webpackChunkName: "v-3b47fe50" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/project/02/index.html.js").then(({ data }) => data),
   // path: /notes/mysql/01-Mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%A5%E9%97%A8/
   "v-882e6aae": () => import(/* webpackChunkName: "v-882e6aae" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/mysql/01-Mysql数据库入门/index.html.js").then(({ data }) => data),
   // path: /notes/mysql/02-Mysql%E4%B9%8BSQL%E6%9F%A5%E8%AF%A2/
@@ -41,10 +41,10 @@ export const pagesData = {
   "v-5d79d92d": () => import(/* webpackChunkName: "v-5d79d92d" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/mysql/04-数据库设计/index.html.js").then(({ data }) => data),
   // path: /notes/mysql/05-%E8%A1%A5%E5%85%85%E7%AC%94%E8%AE%B0(%E5%8A%A0%E9%A4%90)/
   "v-5aeeb5f1": () => import(/* webpackChunkName: "v-5aeeb5f1" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/mysql/05-补充笔记(加餐)/index.html.js").then(({ data }) => data),
-  // path: /notes/project/01/
-  "v-3b47fe31": () => import(/* webpackChunkName: "v-3b47fe31" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/project/01/index.html.js").then(({ data }) => data),
-  // path: /notes/project/02/
-  "v-3b47fe50": () => import(/* webpackChunkName: "v-3b47fe50" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/project/02/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/
+  "v-ae166a0c": () => import(/* webpackChunkName: "v-ae166a0c" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/02/
+  "v-ae1669ce": () => import(/* webpackChunkName: "v-ae1669ce" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/index.html.js").then(({ data }) => data),
   // path: /notes/python/01/
   "v-d4b868bc": () => import(/* webpackChunkName: "v-d4b868bc" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/python/01/index.html.js").then(({ data }) => data),
   // path: /notes/record/docker%E4%B8%AD%E8%AE%BE%E7%BD%AEKibana%E4%B8%BA%E4%B8%AD%E6%96%87/
@@ -73,6 +73,8 @@ export const pagesData = {
   "v-3cc7ad90": () => import(/* webpackChunkName: "v-3cc7ad90" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/record/Maven的继承与聚合/index.html.js").then(({ data }) => data),
   // path: /notes/record/Mybatis_MybatisPlus%E6%93%8D%E4%BD%9Cjsonb%E6%A0%BC%E5%BC%8F%E6%95%B0%E6%8D%AE/
   "v-3181db1a": () => import(/* webpackChunkName: "v-3181db1a" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/record/Mybatis_MybatisPlus操作jsonb格式数据/index.html.js").then(({ data }) => data),
+  // path: /notes/record/Mybatis_MybatisPlus%E6%93%8D%E4%BD%9Cprint%E6%A0%BC%E5%BC%8F%E6%95%B0%E6%8D%AE/
+  "v-54198420": () => import(/* webpackChunkName: "v-54198420" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/record/Mybatis_MybatisPlus操作print格式数据/index.html.js").then(({ data }) => data),
   // path: /notes/record/MyBatis%E6%98%A0%E5%B0%84%E4%B9%8Bassociation%E5%92%8Ccollection%E8%AF%A6%E8%A7%A3/
   "v-fd8b975e": () => import(/* webpackChunkName: "v-fd8b975e" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/record/MyBatis映射之association和collection详解/index.html.js").then(({ data }) => data),
   // path: /notes/record/RKH81%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E9%94%AE/
@@ -95,38 +97,6 @@ export const pagesData = {
   "v-eb6fa24c": () => import(/* webpackChunkName: "v-eb6fa24c" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/record/增强版Switch语句/index.html.js").then(({ data }) => data),
   // path: /notes/record/%E7%90%86%E8%A7%A3%E4%BB%80%E4%B9%88%E6%98%AFoAuth2%E5%8D%8F%E8%AE%AE/
   "v-3f671e35": () => import(/* webpackChunkName: "v-3f671e35" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/record/理解什么是oAuth2协议/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/01/01-HTML5/
-  "v-8dea4ebc": () => import(/* webpackChunkName: "v-8dea4ebc" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/01/01-HTML5/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/01/02-H5%E5%92%8CCSS3/
-  "v-4bb67221": () => import(/* webpackChunkName: "v-4bb67221" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/01/02-H5和CSS3/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/01/03-%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B/
-  "v-2dffafae": () => import(/* webpackChunkName: "v-2dffafae" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/01/03-盒子模型/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/01/04-CSS/
-  "v-2943f4e6": () => import(/* webpackChunkName: "v-2943f4e6" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/01/04-CSS/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/02/01-JavaScript%E5%85%A5%E9%97%A8/
-  "v-1eeb4dbe": () => import(/* webpackChunkName: "v-1eeb4dbe" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/01-JavaScript入门/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/02/02-JavaScript(%E4%BA%8C)/
-  "v-064cb1a8": () => import(/* webpackChunkName: "v-064cb1a8" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/02-JavaScript(二)/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/02/03-JavaScript(%E4%B8%89%EF%BC%89/
-  "v-674005ae": () => import(/* webpackChunkName: "v-674005ae" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/03-JavaScript(三）/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/02/04-JavaScript(%E5%9B%9B)/
-  "v-8f9d1b4a": () => import(/* webpackChunkName: "v-8f9d1b4a" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/04-JavaScript(四)/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/02/05-JavaScript(%E4%BA%94)/
-  "v-0b5ccb56": () => import(/* webpackChunkName: "v-0b5ccb56" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/05-JavaScript(五)/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/02/06-JS%E4%B8%AD%E5%8D%95%E5%BC%95%E5%8F%B7%E4%B8%8E%E5%8F%8C%E5%BC%95%E5%8F%B7%E7%9A%84%E5%8C%BA%E5%88%AB/
-  "v-ab417c88": () => import(/* webpackChunkName: "v-ab417c88" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/06-JS中单引号与双引号的区别/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/03/01-JQuery(%E4%B8%80)/
-  "v-bbf28cde": () => import(/* webpackChunkName: "v-bbf28cde" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/03/01-JQuery(一)/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/03/02-JQuery(%E4%BA%8C)/
-  "v-cdf7164c": () => import(/* webpackChunkName: "v-cdf7164c" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/03/02-JQuery(二)/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/03/03-Jquery%E6%A1%88%E4%BE%8B/
-  "v-71fc449f": () => import(/* webpackChunkName: "v-71fc449f" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/03/03-Jquery案例/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/04/01-LayUI/
-  "v-7f57a977": () => import(/* webpackChunkName: "v-7f57a977" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/04/01-LayUI/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/05/day01-%E5%88%9D%E8%AF%86Vue/
-  "v-75d57595": () => import(/* webpackChunkName: "v-75d57595" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/05/day01-初识Vue/index.html.js").then(({ data }) => data),
-  // path: /notes/front-end/05/day02-computed-watch/
-  "v-2300b226": () => import(/* webpackChunkName: "v-2300b226" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/05/day02-computed-watch/index.html.js").then(({ data }) => data),
   // path: /notes/java/01/01-%E8%BF%9B%E5%85%A5Java%E7%9A%84%E4%B8%96%E7%95%8C/
   "v-eba860a4": () => import(/* webpackChunkName: "v-eba860a4" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/java/01/01-进入Java的世界/index.html.js").then(({ data }) => data),
   // path: /notes/java/01/02-Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/
@@ -219,48 +189,38 @@ export const pagesData = {
   "v-c9eb4e00": () => import(/* webpackChunkName: "v-c9eb4e00" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/java/06/10-MVC/index.html.js").then(({ data }) => data),
   // path: /notes/java/06/11-%E5%A4%8D%E4%B9%A0-%E5%9B%9B%E5%A4%A7%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%AF%B9%E8%B1%A1/
   "v-07b81632": () => import(/* webpackChunkName: "v-07b81632" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/java/06/11-复习-四大作用域对象/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/Centos7%E5%AE%89%E8%A3%85Docker/
-  "v-15b0b266": () => import(/* webpackChunkName: "v-15b0b266" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/Centos7安装Docker/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/day01-SpringCloud01/
-  "v-07710070": () => import(/* webpackChunkName: "v-07710070" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day01-SpringCloud01/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/day02-SpringCloud02/
-  "v-2dfa4324": () => import(/* webpackChunkName: "v-2dfa4324" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day02-SpringCloud02/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/day03-Docker/
-  "v-11f79ff2": () => import(/* webpackChunkName: "v-11f79ff2" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day03-Docker/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/day04-MQ/
-  "v-494150a4": () => import(/* webpackChunkName: "v-494150a4" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day04-MQ/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/day05-Elasticsearch01/
-  "v-6e79e1b7": () => import(/* webpackChunkName: "v-6e79e1b7" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day05-Elasticsearch01/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/day06-Elasticsearch02/
-  "v-330bc3f5": () => import(/* webpackChunkName: "v-330bc3f5" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day06-Elasticsearch02/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/day07-Elasticsearch03/
-  "v-10c4b39a": () => import(/* webpackChunkName: "v-10c4b39a" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day07-Elasticsearch03/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/Nacos%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97/
-  "v-382116f2": () => import(/* webpackChunkName: "v-382116f2" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/Nacos安装指南/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/Nacos%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/
-  "v-98a494ac": () => import(/* webpackChunkName: "v-98a494ac" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/Nacos集群搭建/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/RabbitMQ%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97/
-  "v-605ac56a": () => import(/* webpackChunkName: "v-605ac56a" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/RabbitMQ部署指南/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/01/%E5%AE%89%E8%A3%85elasticsearch/
-  "v-2814879d": () => import(/* webpackChunkName: "v-2814879d" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/安装elasticsearch/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/02/day01-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%BF%9D%E6%8A%A4/
-  "v-25ad644e": () => import(/* webpackChunkName: "v-25ad644e" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/day01-微服务保护/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/02/day02-%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/
-  "v-5a01533f": () => import(/* webpackChunkName: "v-5a01533f" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/day02-分布式事务/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/02/day03-%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98/
-  "v-b153d54c": () => import(/* webpackChunkName: "v-b153d54c" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/day03-分布式缓存/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/02/day05-MQ%E9%AB%98%E7%BA%A7/
-  "v-4e2bf68f": () => import(/* webpackChunkName: "v-4e2bf68f" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/day05-MQ高级/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/02/Jmeter%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/
-  "v-be598e96": () => import(/* webpackChunkName: "v-be598e96" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/Jmeter快速入门/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/02/RabbitMQ%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97/
-  "v-545628aa": () => import(/* webpackChunkName: "v-545628aa" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/RabbitMQ部署指南/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/02/Redis%E9%9B%86%E7%BE%A4/
-  "v-70cc2998": () => import(/* webpackChunkName: "v-70cc2998" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/Redis集群/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/02/seata%E7%9A%84%E9%83%A8%E7%BD%B2%E5%92%8C%E9%9B%86%E6%88%90/
-  "v-1df66e41": () => import(/* webpackChunkName: "v-1df66e41" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/seata的部署和集成/index.html.js").then(({ data }) => data),
-  // path: /notes/microservices/02/sentinel%E8%A7%84%E5%88%99%E6%8C%81%E4%B9%85%E5%8C%96/
-  "v-4b0e8912": () => import(/* webpackChunkName: "v-4b0e8912" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/sentinel规则持久化/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/01/01-HTML5/
+  "v-8dea4ebc": () => import(/* webpackChunkName: "v-8dea4ebc" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/01/01-HTML5/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/01/02-H5%E5%92%8CCSS3/
+  "v-4bb67221": () => import(/* webpackChunkName: "v-4bb67221" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/01/02-H5和CSS3/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/01/03-%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B/
+  "v-2dffafae": () => import(/* webpackChunkName: "v-2dffafae" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/01/03-盒子模型/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/01/04-CSS/
+  "v-2943f4e6": () => import(/* webpackChunkName: "v-2943f4e6" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/01/04-CSS/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/02/01-JavaScript%E5%85%A5%E9%97%A8/
+  "v-1eeb4dbe": () => import(/* webpackChunkName: "v-1eeb4dbe" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/01-JavaScript入门/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/02/02-JavaScript(%E4%BA%8C)/
+  "v-064cb1a8": () => import(/* webpackChunkName: "v-064cb1a8" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/02-JavaScript(二)/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/02/03-JavaScript(%E4%B8%89%EF%BC%89/
+  "v-674005ae": () => import(/* webpackChunkName: "v-674005ae" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/03-JavaScript(三）/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/02/04-JavaScript(%E5%9B%9B)/
+  "v-8f9d1b4a": () => import(/* webpackChunkName: "v-8f9d1b4a" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/04-JavaScript(四)/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/02/05-JavaScript(%E4%BA%94)/
+  "v-0b5ccb56": () => import(/* webpackChunkName: "v-0b5ccb56" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/05-JavaScript(五)/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/02/06-JS%E4%B8%AD%E5%8D%95%E5%BC%95%E5%8F%B7%E4%B8%8E%E5%8F%8C%E5%BC%95%E5%8F%B7%E7%9A%84%E5%8C%BA%E5%88%AB/
+  "v-ab417c88": () => import(/* webpackChunkName: "v-ab417c88" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/02/06-JS中单引号与双引号的区别/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/03/01-JQuery(%E4%B8%80)/
+  "v-bbf28cde": () => import(/* webpackChunkName: "v-bbf28cde" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/03/01-JQuery(一)/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/03/02-JQuery(%E4%BA%8C)/
+  "v-cdf7164c": () => import(/* webpackChunkName: "v-cdf7164c" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/03/02-JQuery(二)/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/03/03-Jquery%E6%A1%88%E4%BE%8B/
+  "v-71fc449f": () => import(/* webpackChunkName: "v-71fc449f" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/03/03-Jquery案例/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/04/01-LayUI/
+  "v-7f57a977": () => import(/* webpackChunkName: "v-7f57a977" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/04/01-LayUI/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/05/day01-%E5%88%9D%E8%AF%86Vue/
+  "v-75d57595": () => import(/* webpackChunkName: "v-75d57595" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/05/day01-初识Vue/index.html.js").then(({ data }) => data),
+  // path: /notes/front-end/05/day02-computed-watch/
+  "v-2300b226": () => import(/* webpackChunkName: "v-2300b226" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/front-end/05/day02-computed-watch/index.html.js").then(({ data }) => data),
   // path: /notes/project/01/Reggie%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B001/
   "v-0390dbe9": () => import(/* webpackChunkName: "v-0390dbe9" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/project/01/Reggie开发笔记01/index.html.js").then(({ data }) => data),
   // path: /notes/project/01/Reggie%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B002/
@@ -303,6 +263,48 @@ export const pagesData = {
   "v-b2796310": () => import(/* webpackChunkName: "v-b2796310" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/project/02/课程发布-部署门户文档/index.html.js").then(({ data }) => data),
   // path: /notes/project/02/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/
   "v-937f808c": () => import(/* webpackChunkName: "v-937f808c" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/project/02/项目总结/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/Centos7%E5%AE%89%E8%A3%85Docker/
+  "v-15b0b266": () => import(/* webpackChunkName: "v-15b0b266" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/Centos7安装Docker/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/day01-SpringCloud01/
+  "v-07710070": () => import(/* webpackChunkName: "v-07710070" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day01-SpringCloud01/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/day02-SpringCloud02/
+  "v-2dfa4324": () => import(/* webpackChunkName: "v-2dfa4324" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day02-SpringCloud02/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/day03-Docker/
+  "v-11f79ff2": () => import(/* webpackChunkName: "v-11f79ff2" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day03-Docker/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/day04-MQ/
+  "v-494150a4": () => import(/* webpackChunkName: "v-494150a4" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day04-MQ/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/day05-Elasticsearch01/
+  "v-6e79e1b7": () => import(/* webpackChunkName: "v-6e79e1b7" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day05-Elasticsearch01/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/day06-Elasticsearch02/
+  "v-330bc3f5": () => import(/* webpackChunkName: "v-330bc3f5" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day06-Elasticsearch02/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/day07-Elasticsearch03/
+  "v-10c4b39a": () => import(/* webpackChunkName: "v-10c4b39a" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/day07-Elasticsearch03/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/Nacos%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97/
+  "v-382116f2": () => import(/* webpackChunkName: "v-382116f2" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/Nacos安装指南/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/Nacos%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/
+  "v-98a494ac": () => import(/* webpackChunkName: "v-98a494ac" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/Nacos集群搭建/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/RabbitMQ%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97/
+  "v-605ac56a": () => import(/* webpackChunkName: "v-605ac56a" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/RabbitMQ部署指南/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/01/%E5%AE%89%E8%A3%85elasticsearch/
+  "v-2814879d": () => import(/* webpackChunkName: "v-2814879d" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/01/安装elasticsearch/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/02/day01-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E4%BF%9D%E6%8A%A4/
+  "v-25ad644e": () => import(/* webpackChunkName: "v-25ad644e" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/day01-微服务保护/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/02/day02-%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/
+  "v-5a01533f": () => import(/* webpackChunkName: "v-5a01533f" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/day02-分布式事务/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/02/day03-%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98/
+  "v-b153d54c": () => import(/* webpackChunkName: "v-b153d54c" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/day03-分布式缓存/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/02/day05-MQ%E9%AB%98%E7%BA%A7/
+  "v-4e2bf68f": () => import(/* webpackChunkName: "v-4e2bf68f" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/day05-MQ高级/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/02/Jmeter%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/
+  "v-be598e96": () => import(/* webpackChunkName: "v-be598e96" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/Jmeter快速入门/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/02/RabbitMQ%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97/
+  "v-545628aa": () => import(/* webpackChunkName: "v-545628aa" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/RabbitMQ部署指南/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/02/Redis%E9%9B%86%E7%BE%A4/
+  "v-70cc2998": () => import(/* webpackChunkName: "v-70cc2998" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/Redis集群/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/02/seata%E7%9A%84%E9%83%A8%E7%BD%B2%E5%92%8C%E9%9B%86%E6%88%90/
+  "v-1df66e41": () => import(/* webpackChunkName: "v-1df66e41" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/seata的部署和集成/index.html.js").then(({ data }) => data),
+  // path: /notes/microservices/02/sentinel%E8%A7%84%E5%88%99%E6%8C%81%E4%B9%85%E5%8C%96/
+  "v-4b0e8912": () => import(/* webpackChunkName: "v-4b0e8912" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/microservices/02/sentinel规则持久化/index.html.js").then(({ data }) => data),
   // path: /notes/python/01/01.%E4%BD%A0%E5%A5%BDpython/
   "v-ec747ff4": () => import(/* webpackChunkName: "v-ec747ff4" */"D:/ZyKunのSpace/项目资料/博客/vuepress-starterV2.0/docs/.vuepress/.temp/pages/notes/python/01/01.你好python/index.html.js").then(({ data }) => data),
   // path: /404.html

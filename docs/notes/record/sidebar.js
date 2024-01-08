@@ -26,6 +26,7 @@ module.exports = [
          '/notes/record/ElasticSearch-模糊查询/',
          '/notes/record/Java中var类型的用法和使用/',
          '/notes/record/Mybatis&MybatisPlus操作jsonb格式数据/',
+         '/notes/record/Mybatis&MybatisPlus操作print格式数据/',
          '/notes/record/SpringBoot集成Caffeine/',
       ],
    },
