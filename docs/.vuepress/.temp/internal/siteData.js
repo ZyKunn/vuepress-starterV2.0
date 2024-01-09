@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/MyBlog/\",\"lang\":\"en-US\",\"title\":\"ZyKunのBlog\",\"description\":\"\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"./img/logo.png\"}]],\"locales\":{}}")
