@@ -1,6 +1,6 @@
 <template><div><h1 id="🔡mybatis-mybatisplus-操作-point-格式数据" tabindex="-1"><a class="header-anchor" href="#🔡mybatis-mybatisplus-操作-point-格式数据" aria-hidden="true">#</a> 🔡Mybatis&amp;MybatisPlus 操作 point 格式数据</h1>
 <hr/>
-<nav class="table-of-contents"><ul><li><router-link to="#_1-数据库字段">1.数据库字段</router-link></li><li><router-link to="#_2-依赖">2.依赖</router-link></li><li><router-link to="#_3-实体类">3.实体类</router-link></li><li><router-link to="#_4-类型处理器">4.类型处理器</router-link></li><li><router-link to="#_5-xml-文件-mapper">5.xml 文件(mapper)</router-link></li><li><router-link to="#_6-测试">6.测试：</router-link></li><li><router-link to="#_7-结果一览">7.结果一览</router-link></li></ul></nav>
+<nav class="table-of-contents"><ul><li><router-link to="#_1-数据库字段">1.数据库字段</router-link></li><li><router-link to="#_2-依赖">2.依赖</router-link></li><li><router-link to="#_3-实体类">3.实体类</router-link></li><li><router-link to="#_4-类型处理器">4.类型处理器</router-link></li><li><router-link to="#_5-xml-文件-mapper">5.xml 文件(mapper)</router-link></li><li><router-link to="#_6-测试">6.测试：</router-link></li><li><router-link to="#_7-结果一览">7.结果一览</router-link></li><li><router-link to="#_8-insert-update">8.insert / update</router-link></li></ul></nav>
 <p>今天用到了<strong>postgresql</strong>中<strong>point</strong>数据类型 整合 Mybatis-plus 在此做个记录</p>
 <h2 id="_1-数据库字段" tabindex="-1"><a class="header-anchor" href="#_1-数据库字段" aria-hidden="true">#</a> 1.数据库字段</h2>
 <p><img src="@source/notes/record/Mybatis&amp;MybatisPlus操作print格式数据/assets/image-20240108180332208.png" alt="image-20240108180332208"></p>
@@ -210,6 +210,11 @@
 
 </code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="_7-结果一览" tabindex="-1"><a class="header-anchor" href="#_7-结果一览" aria-hidden="true">#</a> 7.结果一览</h2>
 <p><img src="@source/notes/record/Mybatis&amp;MybatisPlus操作print格式数据/assets/image-20240108181515559.png" alt="image-20240108181515559"></p>
+<h2 id="_8-insert-update" tabindex="-1"><a class="header-anchor" href="#_8-insert-update" aria-hidden="true">#</a> 8.insert / update</h2>
+<p>代码预览：</p>
+<p><img src="@source/notes/record/Mybatis&amp;MybatisPlus操作print格式数据/assets/image-20240109171701161.png" alt="image-20240109171701161"></p>
+<p>参数预览 【具体实体参数  上方实体类】：</p>
+<p><img src="@source/notes/record/Mybatis&amp;MybatisPlus操作print格式数据/assets/image-20240109171745397.png" alt="image-20240109171745397"></p>
 </div></template>
 
 

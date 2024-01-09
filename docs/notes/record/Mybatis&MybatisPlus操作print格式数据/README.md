@@ -237,3 +237,15 @@ public class IntrusionFenceController {
 ## 7.结果一览
 
 ![image-20240108181515559](./assets/image-20240108181515559.png)
+
+
+
+## 8.insert / update
+
+代码预览：
+
+![image-20240109171701161](./assets/image-20240109171701161.png)
+
+参数预览 【具体实体参数  上方实体类】：
+
+![image-20240109171745397](./assets/image-20240109171745397.png)
